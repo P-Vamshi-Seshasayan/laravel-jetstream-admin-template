@@ -28,6 +28,7 @@ This is a admin template built on top of Laravel Jetstream that provides the per
 
 This repo also contains docker files so you can spin a container and test it right away.
 
+<p align="center"><img src="https://repository-images.githubusercontent.com/301996658/fb698a00-08b6-11eb-9f5f-c5e7202c4878"></p>
 
 ## Official Documentation
 Documentation for Laravel can be found on the [Laravel website](https://laravel.com/docs). 
