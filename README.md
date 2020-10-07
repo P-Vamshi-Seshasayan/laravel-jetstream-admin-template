@@ -24,14 +24,13 @@
 </p>
 
 ## Introduction
-Laravel is a web application framework with expressive, elegant syntax that makes development  an enjoyable and creative experience by taking out the pain out of development by easing common tasks used in many web projects, such as [Simple, fast routing engine](https://laravel.com/docs/routing), [Powerful dependency injection container](https://laravel.com/docs/container),, Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage, Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent), Database agnostic [schema migrations](https://laravel.com/docs/migrations), [Robust background job processing](https://laravel.com/docs/queues) and [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+This is a admin template built on top of Laravel Jetstream that provides the perfect starting point for your next Laravel application and includes login, registration, email verification, two-factor authentication, session management, API support via Laravel Sanctum, and optional team management. This template uses [Tailwind CSS](https://tailwindcss.com/) + [Livewire](https://laravel-livewire.com) + Blade
 
-Laravel Jetstream is a beautifully designed application scaffolding for Laravel. Jetstream provides the perfect starting point for your next Laravel application and includes login, registration, email verification, two-factor authentication, session management, API support via [Laravel Sanctum](https://github.com/laravel/sanctum), and optional team management.
+This repo also contains docker files so you can spin a container and test it right away.
 
-Jetstream is designed using [Tailwind CSS](https://tailwindcss.com) and offers your choice of [Livewire](https://jetstream.laravel.com/1.x/stacks/livewire.html) or [Inertia](https://jetstream.laravel.com/1.x/stacks/inertia.html) scaffolding.
 
 ## Official Documentation
-Documentation for Laravel can be found on the [Laravel website](https://laravel.com/docs). If you don't feel like reading, [Laracasts](https://laracasts.com) can help.
+Documentation for Laravel can be found on the [Laravel website](https://laravel.com/docs). 
 
 Documentation for Jetstream can be found on the [Jetstream website](https://jetstream.laravel.com).
 
